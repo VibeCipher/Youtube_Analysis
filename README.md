@@ -53,6 +53,7 @@ Required packages include:
 - scikit-learn
 - plotly
 - nltk
+
 Launch Jupyter Notebook:
 ```
 jupyter notebook
