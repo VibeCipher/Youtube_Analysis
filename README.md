@@ -21,7 +21,7 @@ This project includes a variety of visualizations to uncover YouTube trends and 
  1. Top 10 Channels by Subscribers: Visualize leading channels by subscriber count (Blues_d palette).
  2. Top 10 Channels by Earnings: Compare estimated yearly earnings (Greens_d palette).
  3. Top 10 Countries by Channel Count: Show geographic distribution of top channels (Oranges_d palette).
-- Channels by Category: Analyze category popularity with a gradient effect (magma palette).
+- Channels by Category: Analyze category popularity with a gradient effect (viridis palette).
 - Channels by Country: Explore channel distribution by country (magma palette).
 - Feature Importances: Highlight key predictors (e.g., video views, uploads) from a Random Forest model (inferno palette).
 - Scatterplots:
